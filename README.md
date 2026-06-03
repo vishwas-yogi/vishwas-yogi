@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Vishwas Yogi profile views](https://u8views.com/api/v1/github/profiles/70371255/views/day-week-month-total-count.svg)](https://u8views.com/github/vishwas-yogi)
+
 <!--
 **vishwas-yogi/vishwas-yogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
